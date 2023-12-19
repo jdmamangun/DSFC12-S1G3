@@ -1,1 +1,1 @@
-# Customer Segmentation via RFM & KMeans
+# Customer Segmentation via RFM Segmentation & KMeans Clustering
