@@ -9,4 +9,5 @@ First, RFM segmentation was implemented to categorize clients based on spending 
 
 RFM analysis resulted in these top three customer segments: for average customers, send personalized product recommendations based on past purchases and/or offer loyalty rewards or discounts to encourage more frequent transactions; for hibernating customers, send reactivation campaigns with limited-time offers to entice them; and for loyal customers, show appreciation with exclusive offers such as larger discounts on partner merchants and/or cross-sell other categories to increase spend. On the other hand, k-means generated four transaction clusters, as shown in the image below.
 
-![Uploading image.png…]()
+![image](https://github.com/jdmamangun/DataScienceFellowshipSprint1-Eskwelabs/assets/125948646/a27031dd-49ec-49c9-a0d5-5c75f9705601)
+
