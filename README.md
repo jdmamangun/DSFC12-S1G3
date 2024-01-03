@@ -2,7 +2,7 @@
 
 In the competitive world of banking, understanding customer behavior is key. Adobo Advantage (AA), a hypothetical financial institution, seeks to uncover valuable insights about its credit card clients, discovering untapped opportunities for business growth.
 
-AA provided a comprehensive dataset of credit card transactions, including, but not limited to, features on customer demographics and amounts spent in various categories. The objective was to deliver curated recommendations that maximize credit card activity, either with an increase in the amount spent per transaction or an increase in the number of transactions for each customer cluster identified.
+AA provided a comprehensive dataset of credit card transactions, including, but not limited to, features on customer demographics and amounts spent in various categories. The objective is to curate recommendations that maximize credit card activity, either with an increase in the amount spent per transaction or an increase in the number of transactions for each customer cluster identified.
 
 First, RFM segmentation was implemented to categorize clients based on spending patterns, i.e., are they champions, loyal customers, big spenders, average buyers, new customers, infrequent buyers, lapsed buyers, promising customers, or hibernating? Second, k-means clustering was performed to group transactions based on the amount spent, time of day purchased, and category of product or service availed.
 
