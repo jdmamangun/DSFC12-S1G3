@@ -1,6 +1,5 @@
 **Credit Card Intelligence: Leveraging Customer Financial Data for Business Growth**
 
-About this Project
 In the competitive world of banking, understanding customer behavior is key. Adobo Advantage (AA), a hypothetical financial institution, seeks to uncover valuable insights about its credit card clients, discovering untapped opportunities for business growth.
 
 AA provided a comprehensive dataset of credit card transactions, including, but not limited to, features on customer demographics and amounts spent in various categories. The objective was to deliver curated recommendations that maximize credit card activity, either with an increase in the amount spent per transaction or an increase in the number of transactions for each customer cluster identified.
